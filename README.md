@@ -1,56 +1,44 @@
 # Data-Analyst-Appointment-System
 
-📊 Data Analyst Job Appointment System
+📊 Data Analyst Job Appointment System :
 
 A Streamlit-based web application that evaluates whether a candidate is eligible for a Data Analyst interview based on their skills, experience, and tools knowledge.
 
 This project demonstrates the use of Python Object-Oriented Programming (OOP) concepts along with an interactive Streamlit interface to simulate a simple recruitment screening system.
 
-🚀 Project Overview
+🚀 Project Overview :
 
 The application allows users to enter applicant details such as:
 
-Name
-
-Age
-
-Email
-
-Qualification
-
-Skills
-
-Years of Experience
-
-Tools Known
-
-Based on predefined criteria, the system automatically determines whether the candidate is eligible for a Data Analyst interview.
-
-The eligibility rule checks if the candidate:
-
-Has at least 1 year of experience
-
-Knows Excel
-
-Knows Python
-
-The application then displays the applicant profile along with the eligibility result. 
+- Name
+- Age
+- Email
+- Qualification
+- Skills
+- Years of Experience
+- Tools Known
+- Based on predefined criteria, the system automatically determines whether the candidate is eligible for a Data Analyst interview.
+- The eligibility rule checks if the candidate:
+- Has at least 1 year of experience
+- Knows Excel
+- Knows Python
+- The application then displays the applicant profile along with the eligibility result. 
 
 oop
 
-🧠 Concepts Demonstrated
+🧠 Concepts Demonstrated :
 
-This project demonstrates:
+This project demonstrates -
 
-Object-Oriented Programming (OOP)
+   Object-Oriented Programming (OOP)
 
-Multi-Level Inheritance
+   Multi-Level Inheritance
 
-Interactive Web Application using Streamlit
+   Interactive Web Application using Streamlit
 
-Simple Decision Logic for Candidate Screening
+   Simple Decision Logic for Candidate Screening
 
-Class hierarchy used in the project:
+   Class hierarchy used in the project:
 
 Person
    ↓
@@ -61,96 +49,96 @@ DataAnalystApplicant
 
 The Streamlit interface allows users to:
 
-✔ Enter applicant details
-✔ Select known tools and skills
-✔ Check interview eligibility instantly
+   ✔ Enter applicant details
+   ✔ Select known tools and skills
+   ✔ Check interview eligibility instantly
 
 Example interface:
 
-Data Analyst Job Appointment
---------------------------------
-Name
-Age
-Email
-Qualification
-Skills
-Years of Experience
-Tools Known
+   Data Analyst Job Appointment
+   --------------------------------
+   Name
+   Age
+   Email
+   Qualification
+   Skills
+   Years of Experience
+   Tools Known
 
 [ Check Eligibility ]
 
 The system then displays:
 
-Applicant profile summary
+   Applicant profile summary
 
-Eligibility status
+   Eligibility status
 
 🛠️ Technologies Used
 
-Python
+   Python
 
-Streamlit
+   Streamlit
 
-Object-Oriented Programming (OOP)
+   Object-Oriented Programming (OOP)
 
 📂 Project Structure
-Data-Analyst-Appointment-System
-│
-├── oop.py                # Main Streamlit application
-├── requirements.txt      # Project dependencies
-└── README.md             # Project documentation
-⚙️ Installation & Setup
+   Data-Analyst-Appointment-System
+   │
+   ├── oop.py                # Main Streamlit application
+   ├── requirements.txt      # Project dependencies
+   └── README.md             # Project documentation
+   ⚙️ Installation & Setup
 
 Clone the repository:
 
-git clone https://github.com/Adarshhue/Data-Analyst-Appointment-System.git
+   git clone https://github.com/Adarshhue/Data-Analyst-Appointment-System.git
 
-Move to the project directory:
+   Move to the project directory:
 
-cd Data-Analyst-Appointment-System
+   cd Data-Analyst-Appointment-System
 
-Install dependencies:
+   Install dependencies:
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
-Run the Streamlit app:
+   Run the Streamlit app:
 
-streamlit run oop.py
+   streamlit run oop.py
+   
+   The application will open in your browser.
 
-The application will open in your browser.
+📌 Features :
 
-📌 Features
+   Interactive Streamlit UI
 
-Interactive Streamlit UI
+   Multi-level inheritance using OOP
 
-Multi-level inheritance using OOP
+   Automated eligibility check
 
-Automated eligibility check
+   Simple recruitment screening logic
 
-Simple recruitment screening logic
+   Beginner-friendly project structure
 
-Beginner-friendly project structure
-
-📈 Future Improvements
+📈 Future Improvements :
 
 Possible enhancements:
 
-Add resume upload feature
+   Add resume upload feature
 
-Add database integration
+   Add database integration
 
-Implement advanced eligibility scoring
+   Implement advanced eligibility scoring
 
-Deploy the application online
+   Deploy the application online
 
-👨‍💻 Author
+👨‍💻 Author :
 
-Adarsh T P
+   Adarsh T P
 
-Aspiring Data Analyst | Python | SQL | Power BI
+   Aspiring Data Analyst | Python | SQL | Power BI
 
-GitHub:
-https://github.com/Adarshhue
+   GitHub:
+   https://github.com/Adarshhue
 
 ⭐ If you like this project
 
